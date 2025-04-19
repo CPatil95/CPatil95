@@ -12,10 +12,15 @@ Collaborate with data scientists and analysts to enable data-driven decision-mak
 🛠️ Tech Stack
 
 Languages: Python, SQL, Scala, Java
+
 Data Tools: Apache Spark, Airflow, Kafka, dbt, Hadoop
+
 Cloud: AWS (S3, Lambda, Glue), GCP (BigQuery, Dataflow), Azure (Data Factory)
+
 Databases: PostgreSQL, MySQL, MongoDB, Snowflake
+
 Other: Docker, Kubernetes, Terraform, Git
+
 
 🌟 Featured Projects
 
